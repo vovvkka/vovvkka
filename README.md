@@ -13,9 +13,9 @@
 <h3 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> About Me</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-19-blue?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-St.%20Petersburg-blue?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Age-19-blue?style=flat-square&logoColor=white" width="60px" />
+  <img src="https://img.shields.io/badge/Location-St.%20Petersburg-blue?style=flat-square&logoColor=white" width="165px" />
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-blue?style=flat-square&logoColor=white" width="175px" />
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@
 <h3 align="center"><img src="https://media.tenor.com/KvRIHOyJN-sAAAAi/gears-spinning.gif" width="20px"> Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,redux,html,css,tailwind,nodejs,mongodb,mysql,git,figma,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,vite,redux,html,css,tailwind,nodejs,expressjs,mongodb,git,figma,linux&perline=8" />
 </p>
 
 ---
