@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> About Me</h3>
+<h3 align="center"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="18px"> About Me</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue?style=flat-square&logoColor=white" width="60px" />
@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="center"><img src="https://media.tenor.com/Q9rfrj2lA6kAAAAi/smolverse-smol.gif" width="25px"> Contact Me</h3>
+<h3 align="center"><img src="https://media.tenor.com/Q9rfrj2lA6kAAAAi/smolverse-smol.gif" width="30px"> Contact Me</h3>
 
 <p align="center">
   <a href="https://t.me/vovvijj">
