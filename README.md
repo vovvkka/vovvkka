@@ -41,7 +41,7 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25px"> GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vovvkka&show_icons=true&theme=tokyonight&hide=prs&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vovvkka&show_icons=true&include_all_commits=true&theme=tokyonight&hide=issues&cache_seconds=1800" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovvkka&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
 
