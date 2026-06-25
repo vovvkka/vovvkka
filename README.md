@@ -21,7 +21,7 @@
 <div align="center">
 
 <div align="center" style="background: linear-gradient(135deg, rgba(0,122,204,0.4), rgba(0,229,255,0.4)); padding: 1.5rem; border-radius: 1rem; width: 85%; backdrop-filter: blur(10px); color: #fff; font-size: 1rem; font-family: sans-serif; animation: fadeIn 1s ease-in;">
-  💻 I'm a <strong>19 y.o. frontend developer</strong> based in <strong>St. Petersburg</strong>.  
+  💻 I'm a <strong>20 y.o. frontend developer</strong> based in <strong>St. Petersburg</strong>.  
   I enjoy building <strong>snappy, polished UIs</strong> using modern web technologies like React, TypeScript and Tailwind.  
   Always open to challenges, focused on clean code and delivering great user experiences.
 </div>
@@ -50,7 +50,7 @@
 <h3 align="center"><img src="https://media.tenor.com/Q9rfrj2lA6kAAAAi/smolverse-smol.gif" width="30px"> Contact Me</h3>
 
 <p align="center">
-  <a href="https://t.me/vovvijj">
+  <a href="https://t.me/vowkka">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
